@@ -1,4 +1,4 @@
-ver:1.0.1
+ver:1.0.0
 size:53588
 crc32:A0941FC0
 md5sum:a0689dcd14336449c16655ec0756b600
