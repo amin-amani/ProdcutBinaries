@@ -1,5 +1,5 @@
-ver:1.0.1
-size:57564
-crc32:4181D403
-md5sum:2da13ede1e35dac89d1e37fd2677d3d3
+ver:1.0.0
+size:57532
+crc32:756C5D7A
+md5sum:d2103b51144a2a506bb57711a2319276
 force_update:0
